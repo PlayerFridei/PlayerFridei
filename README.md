@@ -99,6 +99,8 @@
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/github.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/sdr.png" title="SDR (Software Defined Radio)" alt="SDR (Software Defined Radio)" width="50" height="50"/>&nbsp;
+
 </div>
 
 ---
