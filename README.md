@@ -46,7 +46,7 @@
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/python.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/java.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/rust/og_rust_logo.png" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-512x512.png" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
