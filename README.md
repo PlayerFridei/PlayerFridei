@@ -66,6 +66,7 @@
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/3dsmax.png" title="3DS Max" alt="3DS Max" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/maya.png" title="Maya" alt="Maya" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/substancepainter.png" title="Substance Painter" alt="Substance Painter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/zbrush/zbrush_white.png" title="Zbrush" alt="Zbrush" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -74,12 +75,11 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-
-  <!-- Cybersecurity Tools (from Simple Icons) -->
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/burpsuite.png" title="Burp Suite" alt="Burp Suite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/wireshark.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/metasploit.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/osint.png" title="OSINT" alt="OSINT" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/owasp/owasp_white.png" title="OWASP" alt="OWASP" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -87,6 +87,7 @@
 ### 💻 Virtualisointi ja käyttöjärjestelmät / Virtualization & OS:
 <div align="center">
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/vmware.png" title="VMware" alt="VMware" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" Alt="Windows" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" Alt="Ubuntu" width="50" height="50"/>&nbsp;
@@ -97,10 +98,11 @@
 ### 🔧 Muita työkaluja / Additional Tools:
 <div align="center">
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/github.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/postman.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/discord.png" title="Discord (BOTS)" alt="Discord (BOTS)" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/sdr/sdr_flat.png" title="SDR (Software Defined Radio)" alt="SDR (Software Defined Radio)" width="50" height="50"/>&nbsp;
-
 </div>
 
 ---
