@@ -79,6 +79,7 @@
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/burpsuite.png" title="Burp Suite" alt="Burp Suite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/wireshark.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/metasploit.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/osint.png" title="OSINT" alt="OSINT" width="50" height="50"/>&nbsp;
 </div>
 
 ---
