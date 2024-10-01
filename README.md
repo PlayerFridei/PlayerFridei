@@ -57,7 +57,7 @@
 
 ### 🎮 Pelinkehitys ja luovat työkalut / Game Development & Creative Tools:
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/unrealengine.png" title="Unreal Engine" alt="Unreal Engine" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
@@ -71,16 +71,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 
   <!-- Cybersecurity Tools (from Simple Icons) -->
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/burpsuite.svg" title="Burp Suite" alt="Burp Suite" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/wireshark.svg" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/metasploit.svg" title="Metasploit" alt="Metasploit" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/burpsuite.png" title="Burp Suite" alt="Burp Suite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/wireshark.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/metasploit.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>&nbsp;
 </div>
 
 ---
 
 ### 💻 Virtualisointi ja käyttöjärjestelmät / Virtualization & OS:
 <div align="center">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/virtualbox.svg" title="VirtualBox" alt="VirtualBox" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" Alt="Windows" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" Alt="Ubuntu" width="50" height="50"/>&nbsp;
