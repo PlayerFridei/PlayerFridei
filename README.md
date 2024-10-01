@@ -99,6 +99,6 @@
 
 ### 🎧 Ääni & pelisuunnittelutyökalut / Audio & Game Design Tools:
 <div align="center">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flstudio.svg" title="FL Studio" alt="FL Studio" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/audacity.svg" title="Audacity" alt="Audacity" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/FL-logo.png" title="FL Studio" alt="FL Studio" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/audacity.png" title="Audacity" alt="Audacity" width="50" height="50"/>&nbsp;
 </div>
