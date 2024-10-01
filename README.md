@@ -99,6 +99,7 @@
 <div align="center">
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/github.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/postman.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/obs.png" title="OBS" alt="OBS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/discord.png" title="Discord (BOTS)" alt="Discord (BOTS)" width="50" height="50"/>&nbsp;
@@ -107,7 +108,7 @@
 
 ---
 
-### 🎧 Ääni & pelisuunnittelutyökalut / Audio & Game Design Tools:
+### 🎧 Ääni Työkalut / Audio Tools:
 <div align="center">
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/FL-logo.png" title="FL Studio" alt="FL Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/audacity.png" title="Audacity" alt="Audacity" width="50" height="50"/>&nbsp;
