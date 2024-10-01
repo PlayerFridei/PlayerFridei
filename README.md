@@ -67,6 +67,7 @@
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/maya.png" title="Maya" alt="Maya" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/substancepainter.png" title="Substance Painter" alt="Substance Painter" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/zbrush/zbrush_white.png" title="Zbrush" alt="Zbrush" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/clipstudiopaint/clipstudiopaint_white.png" title="Clip Studio Paint" alt="Clip Studio Paint" width="50" height="50"/>&nbsp;
 </div>
 
 ---
