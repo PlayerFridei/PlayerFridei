@@ -25,12 +25,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PlayerFridei&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PlayerFridei&theme=onedark" alt="GitHub Profile Trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PlayerFridei" alt="GitHub Profile Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PlayerFridei&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerFridei&layout=compact&theme=radical" alt="Most Used Languages" />
