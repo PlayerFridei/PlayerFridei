@@ -76,8 +76,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/burpsuite.png" title="Burp Suite" alt="Burp Suite" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/wireshark.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/metasploit.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/wireshark.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/osint.png" title="OSINT" alt="OSINT" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/owasp/owasp_white.png" title="OWASP" alt="OWASP" width="50" height="50"/>&nbsp;
 </div>
