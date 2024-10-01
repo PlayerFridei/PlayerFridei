@@ -63,7 +63,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/vegaspro.png" title="Vegas Pro" alt="Vegas Pro" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/3dsmax.png" title="3DS Max" alt="3DS Max" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/3dsmax.png" title="3DS Max" alt="3DS Max" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/maya.png" title="Maya" alt="Maya" width="50" height="50"/>&nbsp;
   <img src="https://github.com/PlayerFridei/PlayerFridei/blob/main/icons/substancepainter.png" title="Substance Painter" alt="Substance Painter" width="50" height="50"/>&nbsp;
 </div>
 
